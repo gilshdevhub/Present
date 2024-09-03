@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Inforu>
+  <User>
+    <Username>{USER_NAME}</Username>
+    <ApiToken>{API_TOKEN}</ApiToken>
+  </User>
+  <Content Type="sms">
+    <Message>{MESSAGE_BODY}</Message>
+  </Content>
+  <Recipients>
+    <PhoneNumber>{RECIPIENTS}</PhoneNumber>
+  </Recipients>
+  <Settings>
+    <Sender>Train-T</Sender>
+  </Settings>
+</Inforu>

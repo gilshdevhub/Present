@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TELEMESSAGE>
+  <TELEMESSAGE_CONTENT>
+    <MESSAGE>
+      <MESSAGE_INFORMATION>
+        <SUBJECT>{MESSAGE_SUBJECT}</SUBJECT>
+      </MESSAGE_INFORMATION>
+      <USER_FROM>
+        <CIML>
+          <NAML>
+            <LOGIN_DETAILS>
+              <USER_NAME>{USER_NAME}</USER_NAME>
+              <PASSWORD>{PASSWORD}</PASSWORD>
+            </LOGIN_DETAILS>
+          </NAML>
+        </CIML>
+      </USER_FROM>
+      <MESSAGE_CONTENT>
+        <TEXT_MESSAGE>
+          <MESSAGE_INDEX>0</MESSAGE_INDEX>
+          <TEXT>{MESSAGE_BODY}</TEXT>
+        </TEXT_MESSAGE>
+      </MESSAGE_CONTENT>
+      <USER_TO>
+        <CIML>
+          {RECIPIENTS}
+        </CIML>
+      </USER_TO>
+    </MESSAGE>
+  </TELEMESSAGE_CONTENT>
+  <VERSION>1.6</VERSION>
+</TELEMESSAGE>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ashrait>
+  <request>
+    <version>2000</version>
+    <language>{{language}}</language>
+    <dateTime/>
+    <requestid/>
+    <command>doDeal</command>
+    <doDeal>
+      <cvv/>
+      <id/>
+      <terminalNumber>{{terminal}}</terminalNumber>
+      <cardExpiration>{{cardExpiration}}</cardExpiration>
+      <cardId>{{cardId}}</cardId>
+      <transactionType>Debit</transactionType>
+      <creditType>RegularCredit</creditType>
+      <currency>{{currency}}</currency>
+      <transactionCode>Phone</transactionCode>
+      <total>{{total}}</total>
+      <validation>AutoComm</validation>
+      <useCD>1</useCD>
+      <sessionCD>{{sessionCD}}</sessionCD>
+      <invoice>
+        <invoiceItemDescription>Testing: plan|test2</invoiceItemDescription>
+        <mailTo>gils2@rail.co.il</mailTo>
+        <sendMail>1</sendMail>
+        <invoiceDate/>
+        <invoiceItemQuantity>1|1</invoiceItemQuantity>
+        <isItemPriceWithTax>1</isItemPriceWithTax>
+        <invoiceSubject>-</invoiceSubject>
+        <invoiceItemPrice>5000|5000</invoiceItemPrice>
+        <ccDate>{{currentDate}}</ccDate>
+        <invoiceTaxRate/>
+        <DocRemark>הערה, מספר הזמנה : 123456</DocRemark>
+        <clientAddress>test1 /test2</clientAddress>
+        <invoiceItemCode>417806|23232323</invoiceItemCode>
+        <companyInfo>Company Info</companyInfo>
+        <invoiceCreationMethod>wait</invoiceCreationMethod>
+      </invoice>
+    </doDeal>
+  </request>
+</ashrait>

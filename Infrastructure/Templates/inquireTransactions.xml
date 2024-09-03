@@ -1,0 +1,15 @@
+<ashrait>
+  <request>
+    <requestId/>
+    <version>2000</version>
+    <language>{language}</language>
+    <dateTime/>
+    <command>inquireTransactions</command>
+    <inquireTransactions>
+      <terminalNumber>{terminal}</terminalNumber>
+      <queryName>mpiTransaction</queryName>
+      <mid>{mpi_mid}</mid>
+      <mpiTransactionId>{txId}</mpiTransactionId>
+    </inquireTransactions>
+  </request>
+</ashrait>

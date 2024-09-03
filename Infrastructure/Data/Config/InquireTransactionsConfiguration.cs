@@ -1,0 +1,95 @@
+﻿using Core.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace Infrastructure.Data.Config;
+
+public class InquireTransactionsConfiguration : IEntityTypeConfiguration<InquireTransactions>
+{
+    public void Configure(EntityTypeBuilder<InquireTransactions> builder)
+    {
+        _ = builder.HasKey(p => p.Id);
+        _ = builder.Property(p => p.mpiTransactionId).HasMaxLength(40);
+        _ = builder.Property(p => p.internalCommand).HasMaxLength(40);
+        _ = builder.Property(p => p.internalDateTime).HasMaxLength(40);
+        _ = builder.Property(p => p.internalrequestId).HasMaxLength(40);
+        _ = builder.Property(p => p.internaltranId).HasMaxLength(40);
+        _ = builder.Property(p => p.internalresult).HasMaxLength(40);
+        _ = builder.Property(p => p.internalmessage).HasMaxLength(40);
+        _ = builder.Property(p => p.internaluserMessage).HasMaxLength(40);
+        _ = builder.Property(p => p.internaluseradditionalInfo).HasMaxLength(40);
+        _ = builder.Property(p => p.internalversion).HasMaxLength(40);
+        _ = builder.Property(p => p.internallanguage).HasMaxLength(40);
+        _ = builder.Property(p => p.status).HasMaxLength(40);
+        _ = builder.Property(p => p.internalstatusText).HasMaxLength(40);
+        _ = builder.Property(p => p.extendedStatus).HasMaxLength(40);
+        _ = builder.Property(p => p.extendedStatusText).HasMaxLength(40);
+        _ = builder.Property(p => p.extendedUserMessage).HasMaxLength(40);
+        _ = builder.Property(p => p.terminalNumber).HasMaxLength(40);
+        _ = builder.Property(p => p.internalcardId).HasMaxLength(40);
+        _ = builder.Property(p => p.cardBin).HasMaxLength(40);
+        _ = builder.Property(p => p.cardMask).HasMaxLength(40);
+        _ = builder.Property(p => p.cardLength).HasMaxLength(40);
+        _ = builder.Property(p => p.cardNo).HasMaxLength(40);
+        _ = builder.Property(p => p.cardName).HasMaxLength(40);
+        _ = builder.Property(p => p.cardExpiration).HasMaxLength(40);
+        _ = builder.Property(p => p.cardType).HasMaxLength(40);
+        _ = builder.Property(p => p.extendedCardType).HasMaxLength(40);
+        _ = builder.Property(p => p.blockedCard).HasMaxLength(40);
+        _ = builder.Property(p => p.lifeStyle).HasMaxLength(40);
+        _ = builder.Property(p => p.customCardType).HasMaxLength(40);
+        _ = builder.Property(p => p.creditCompany).HasMaxLength(40);
+        _ = builder.Property(p => p.cardBrand).HasMaxLength(40);
+        _ = builder.Property(p => p.cardAcquirer).HasMaxLength(40);
+        _ = builder.Property(p => p.serviceCode).HasMaxLength(40);
+        _ = builder.Property(p => p.transactionType).HasMaxLength(40);
+        _ = builder.Property(p => p.creditType).HasMaxLength(40);
+        _ = builder.Property(p => p.internalcurrency).HasMaxLength(40);
+        _ = builder.Property(p => p.baseCurrency).HasMaxLength(40);
+        _ = builder.Property(p => p.baseAmount).HasMaxLength(40);
+        _ = builder.Property(p => p.transactionCode).HasMaxLength(40);
+        _ = builder.Property(p => p.total).HasMaxLength(40);
+        _ = builder.Property(p => p.firstPayment).HasMaxLength(40);
+        _ = builder.Property(p => p.periodicalPayment).HasMaxLength(40);
+        _ = builder.Property(p => p.numberOfPayments).HasMaxLength(40);
+        _ = builder.Property(p => p.clubId).HasMaxLength(40);
+        _ = builder.Property(p => p.validation).HasMaxLength(40);
+        _ = builder.Property(p => p.idStatus).HasMaxLength(40);
+        _ = builder.Property(p => p.cvvStatus).HasMaxLength(40);
+        _ = builder.Property(p => p.authSource).HasMaxLength(40);
+        _ = builder.Property(p => p.authNumber).HasMaxLength(40);
+        _ = builder.Property(p => p.fileNumber).HasMaxLength(40);
+        _ = builder.Property(p => p.slaveTerminalNumber).HasMaxLength(40);
+        _ = builder.Property(p => p.slaveTerminalSequence).HasMaxLength(40);
+        _ = builder.Property(p => p.eci).HasMaxLength(40);
+        _ = builder.Property(p => p.clientIp).HasMaxLength(40);
+        _ = builder.Property(p => p.email).HasMaxLength(40);
+        _ = builder.Property(p => p.cavv).HasMaxLength(40);
+        _ = builder.Property(p => p.user).HasMaxLength(40);
+        _ = builder.Property(p => p.addonData).HasMaxLength(40);
+        _ = builder.Property(p => p.supplierNumber).HasMaxLength(40);
+        _ = builder.Property(p => p.internalid).HasMaxLength(40);
+        _ = builder.Property(p => p.shiftId1).HasMaxLength(40);
+        _ = builder.Property(p => p.shiftId2).HasMaxLength(40);
+        _ = builder.Property(p => p.shiftId3).HasMaxLength(40);
+        _ = builder.Property(p => p.shiftTxnDate).HasMaxLength(40);
+        _ = builder.Property(p => p.cgUid).HasMaxLength(40);
+        _ = builder.Property(p => p.cardHash).HasMaxLength(40);
+        _ = builder.Property(p => p.gateway).HasMaxLength(40);
+        _ = builder.Property(p => p.idFlag).HasMaxLength(40);
+        _ = builder.Property(p => p.cvvFlag).HasMaxLength(40);
+        _ = builder.Property(p => p.mti).HasMaxLength(40);
+        _ = builder.Property(p => p.sessionCD).HasMaxLength(40);
+        _ = builder.Property(p => p.userData1).HasMaxLength(40);
+        _ = builder.Property(p => p.userData2).HasMaxLength(40);
+        _ = builder.Property(p => p.userData3).HasMaxLength(40);
+        _ = builder.Property(p => p.userData4).HasMaxLength(40);
+        _ = builder.Property(p => p.userData5).HasMaxLength(40);
+        _ = builder.Property(p => p.userData6).HasMaxLength(40);
+        _ = builder.Property(p => p.userData7).HasMaxLength(40);
+        _ = builder.Property(p => p.userData8).HasMaxLength(40);
+        _ = builder.Property(p => p.userData9).HasMaxLength(40);
+        _ = builder.Property(p => p.userData10).HasMaxLength(40);
+        _ = builder.Property(p => p.railStatus).HasColumnType("TINYINT");
+    }
+}

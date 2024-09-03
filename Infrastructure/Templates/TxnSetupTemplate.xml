@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ashrait>
+	<request>
+		<version>2000</version>
+		<language>{language}</language>
+		<dateTime/>
+		<requestId/>
+		<command>doDeal</command>
+		<doDeal>
+			<terminalNumber>{terminal}</terminalNumber>
+			<cardNo>CGMPI</cardNo>
+			<total>{total}</total>
+			<transactionType>Debit</transactionType>
+			<email/>
+			<creditType>RegularCredit</creditType>
+			<currency>ILS</currency>
+			<transactionCode>Internet</transactionCode>
+			<validation>TxnSetup</validation>
+			<mid>{mpi_mid}</mid>
+			<uniqueid>{uniqueid}</uniqueid>
+			<mpiValidation>Token</mpiValidation>
+			<keepCD>1</keepCD>
+			<successUrl>{successUrl}</successUrl>
+			<errorUrl>{errorUrl}</errorUrl>
+			<cancelUrl>{cancelUrl}</cancelUrl>
+			<paymentPageData>
+				<ppsJSONConfig>{ppsJSONConfig}</ppsJSONConfig>
+			</paymentPageData>
+		</doDeal>
+	</request>
+</ashrait>

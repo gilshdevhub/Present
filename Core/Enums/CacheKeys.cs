@@ -1,0 +1,51 @@
+﻿using System.Text.Json.Serialization;
+
+namespace Core.Enums;
+
+[JsonConverter(typeof(JsonStringEnumConverter))]
+public enum CacheKeys
+{
+    Stations = 1,
+    ConfigurationParameter = 2,
+    Translations = 3,
+    NotificationTypes = 4,
+    VoucherErrorCodes = 5,
+    RailUpdates = 6,
+    PopUpMessages = 7,
+    ContentPages = 8,
+    He = 9,
+    EnUs = 10,
+    Ar = 11,
+    Ru = 12,
+    StationInfo = 13,
+    StationGate = 14,
+    StationActivityHoursTemplates = 15,
+    StationActivityTemplatesTypes = 16,
+    StationGateActivityHours = 17,
+    StationImage = 18,
+    StationImageComplete = 19,
+    FormsIdThrees = 20,
+    StationServices = 21,
+    TenderTypes = 22,
+    Tender = 23,
+    SingleSupplier = 24,
+    Meetings = 25,
+    MailingList = 26,
+    ExemptionNotices = 27,
+    MotConvertion = 28,
+    TenderDocuments = 29,
+    PlanningAndRates = 30,
+    StationImageNames = 31,
+    URLTranslations = 32,
+    ManagmentSystemObjects = 33,
+    ClosedStationsAndLines= 34,
+       TrainsLocationData = 35,
+    ManagmentLog =36,
+    VisaData = 37,
+    PriceNotes = 40,
+    PisSiri = 41,
+    GetAllPriceResultWithNotes=42,
+    Profile_Filtering=43,
+    RailUpdatesNew= 44,
+    RailUpdatesUpdateCacheTime =45
+}

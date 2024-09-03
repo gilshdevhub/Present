@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConnectionString": "Server=tcp:sql-rail2-qa.database.windows.net,1433;Database=SQLDBQA2;User ID=web_app;Password=fzlyxz31#n*f;Trusted_Connection=False;Encrypt=True;",
+    "ConnectionString_qa": "Server=tcp:sql-rail2-qa.database.windows.net,1433;Database=SQLDBQA2;User ID=web_app;Password=fzlyxz31#n*f;Trusted_Connection=False;Encrypt=True;",
+    "ConnectionString_prod": "Server=tcp:sql-rail2-prod.database.windows.net,1433;Database=sqldbprod2;User ID=web_app;Password=r/i822xpr^i/gq;Trusted_Connection=False;Encrypt=True;",
+    "ApiUrl": "https://localhost:5001/api/v1/notifications",
+    "ApiUrl_local": "https://localhost:5001/api/v1/notifications",
+    "ApiUrl_qa": "https://app-rail-back-common-qa.azurewebsites.net/api/v1/notifications",
+    "SubscriptionKey": "5c088fe8bc3a46478fe01eff4a563fec",
+    "SubscriptionKey_qa": "5c088fe8bc3a46478fe01eff4a563fec",
+    "SubscriptionKey_prod": "4b0d355121fe4e0bb3d86e902efe9f20",
+    "timerTrigger_Automation": "0 */2 * * * *",
+    "timerTrigger_Events": "0 */1 * * * *"
+  }
+}

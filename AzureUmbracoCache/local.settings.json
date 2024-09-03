@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "timerTrigger": "0 */10 * * * *",
+    "UmbracoUrl": "stage-israel-railways-heartcore-project",
+    "AbsoluteExpiration": 1440,
+    "SlidingExpiration": 60,
+    "redisCacheConnectionString": "redis-rail-qa.redis.cache.windows.net:6380,password=VqIXMz87W5S9nFk6w4j1xE8rfZ4C2Kp1FAzCaFyyG6U=,ssl=True,abortConnect=False"
+  }
+}

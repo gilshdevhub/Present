@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ApiUrl": "https://localhost:5001/api/v1/railupdates/cache",
+    "ApiUrl_local": "https://localhost:5001/api/v1/railupdates/cache",
+    "ApiUrl_qa": "https://app-rail-back-common-qa.azurewebsites.net/api/v1/railupdates/cache",
+    "ApiUrl_prod": "https://app-rail-back-common-prod.azurewebsites.net/api/v1/railupdates/cache",
+    "SubscriptionKey": "5c088fe8bc3a46478fe01eff4a563fec",
+    "SubscriptionKey_qa": "5c088fe8bc3a46478fe01eff4a563fec",
+    "SubscriptionKey_prod": "4b0d355121fe4e0bb3d86e902efe9f20",
+    "timerTrigger": "0 */3 * * * *",
+    "WEBSITE_TIME_ZONE": "West Europe Standard Time"
+  }
+}

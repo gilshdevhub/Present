@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preservAspectRatio="xMidYMax meet" version="1.1" viewBox="0 0 850.39 1279.8" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css"><![CDATA[.logo_styling{stroke:none;fill-rule:"nonzero";fill:rgb(16.357422%,17.152405%,43.029785%);fill-opacity:1;}.forigen{overflow: visible;display:flex;flex-direction: column;}.outerstationsdiv{display: flex;justify-content: flex-end;min-width:1px ;min-height:40px ;align-items: center;}.stationsdiv{direction:rtl;line-height: 0.9;display:flex;flex-direction: column;vertical-align: middle;font-size:6;text-align-last: end;}.stationsdiv_small_title{line-height: 0.9;display:flex;flex-direction: column;vertical-align: middle;font-size:6;text-align-last: end;}.outerstationsdiv_title{display: flex;justify-content: flex-middle;min-width:1px ;min-height:40px ;align-items: center;}.stationsdiv_title{line-height: 0.9;display:flex;flex-direction: column;vertical-align: middle;font-size:6;text-align: center;transform: translateX(-5.5%);}.Left_side_menu_heb{text-anchor: start;dominant-baseline:middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:47.2%;direction:rtl;}.Left_side_menu_en{text-anchor: end;dominant-baseline:middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:47.2%;direction:ltr;}.Left_side_menu_ar{text-anchor: start;dominant-baseline:middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:47.2%;direction:rtl;}.smallstations_he{direction:rtl;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:50.2%;}.smallstations_en{direction:ltr;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:50.2%;}.smallstations_ru{direction:ltr;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:50.2%;}.smallstations_ar{direction:rtl;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:50.2%;}.smallheader_he{vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:120.2%;}.smallheader_en{vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:120.2%;}.smallheader_ar{vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:120.2%;}.smallheader_ru{vertical-align:middle;width: -moz-fit-content; position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:120.2%;}.lighttitle {font-family: "Arial", "Helvetica", "sans-serif";font-size:82%;}.heavytitle_he {text-decoration-line:underline;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:92%;}.heavytitle_en {text-decoration-line:underline;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:92%;}.heavytitle_ar {text-decoration-line:underline;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:92%;}.heavytitle_ru {text-decoration-line:underline;vertical-align:middle;width: -moz-fit-content; position:relative;text-align: middle;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:92%;}.smallheader {vertical-align:middle;width: -moz-fit-content;position:relative;text-align: end;font-family: "Arial", "Helvetica", "sans-serif";font-weight: bold;font-size:44.2%;}.inactivestation {fill:rgb(50.729858%, 50.159729%, 50.548828%);stroke: rgb(0%, 0%, 0%);strokeWidth: 1.8}.activestation {fill: rgb(100%, 100%, 100%);stroke: rgb(13.729858%, 12.159729%, 12.548828%);strokeWidth: 1.8}.purpleline{stroke:rgb(73.864746%,44.755554%,69.493103%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.darkgreenline{stroke:rgb(21.95282%,61.495972%,28.204346%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.orangeline{stroke:rgb(94.708252%,58.99353%,17.596436%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.lightgreenline{stroke:rgb(76.390076%,87.27417%,21.627808%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.darkredline{stroke:rgb(53.804016%,12.055969%,24.432373%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.lightblueline{stroke:rgb(35.140991%,67.947388%,86.604309%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.darkblueline{stroke:rgb(12.013245%,13.604736%,28.930664%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.darkpurpleline{stroke:rgb(55.34668%,20.854187%,62.304688%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.verydarkpurpleline{stroke:rgb(35.34668%,0%,42.304688%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.brownline{stroke:rgb(64.056396%,44.642639%,26.123047%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.pinkline{stroke:rgb(95.213318%,60.865784%,80.941772%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.pinkline_half{stroke:rgb(95.213318%,60.865784%,80.941772%);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.nightline{stroke:rgb(12%,64%,61%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.redline{stroke:rgb(92.762756%,11.38916%,15.039063%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.darkpinkline{stroke:rgb(75.213318%,40.865784%,60.941772%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.blueline{stroke:#355EAB;fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}.inactiveline {stroke: rgb(50.729858%, 50.159729%, 50.548828%);fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;}]]></style>
+		<linearGradient id="linear0" x1=".31845" x2=".90097" gradientTransform="matrix(1459.8 0 0 1459.8 -464.88 1575.4)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#a2e1f9" offset="0"/>
+			<stop stop-color="#a3e1f9" offset=".0039062"/>
+			<stop stop-color="#a4e1f9" offset=".0078125"/>
+			<stop stop-color="#a5e2f9" offset=".011719"/>
+			<stop stop-color="#a6e2f9" offset=".015625"/>
+			<stop stop-color="#a6e2f9" offset=".019531"/>
+			<stop stop-color="#a7e2f9" offset=".023438"/>
+			<stop stop-color="#a8e3f9" offset=".027344"/>
+			<stop stop-color="#a9e3f9" offset=".03125"/>
+			<stop stop-color="#aae3f9" offset=".035156"/>
+			<stop stop-color="#abe3f9" offset=".039062"/>
+			<stop stop-color="#abe4f9" offset=".042969"/>
+			<stop stop-color="#ace4f9" offset=".046875"/>
+			<stop stop-color="#ade4f9" offset=".050781"/>
+			<stop stop-color="#aee5f9" offset=".054688"/>
+			<stop stop-color="#afe5f9" offset=".058594"/>
+			<stop stop-color="#b0e5fa" offset=".0625"/>
+			<stop stop-color="#b0e5fa" offset=".066406"/>
+			<stop stop-color="#b1e6fa" offset=".070312"/>
+			<stop stop-color="#b2e6fa" offset=".074219"/>
+			<stop stop-color="#b3e6fa" offset=".078125"/>
+			<stop stop-color="#b4e6fa" offset=".082031"/>
+			<stop stop-color="#b4e7fa" offset=".085938"/>
+			<stop stop-color="#b5e7fa" offset=".089844"/>
+			<stop stop-color="#b6e7fa" offset=".09375"/>
+			<stop stop-color="#b7e7fa" offset=".097656"/>
+			<stop stop-color="#b8e8fa" offset=".10156"/>
+			<stop stop-color="#b9e8fa" offset=".10547"/>
+			<stop stop-color="#b9e8fa" offset=".10938"/>
+			<stop stop-color="#bae9fa" offset=".11328"/>
+			<stop stop-color="#bbe9fa" offset=".11719"/>
+			<stop stop-color="#bce9fa" offset=".12109"/>
+			<stop stop-color="#bde9fa" offset=".125"/>
+			<stop stop-color="#bdeafa" offset=".12891"/>
+			<stop stop-color="#beeafa" offset=".13281"/>
+			<stop stop-color="#bfeafb" offset=".13672"/>
+			<stop stop-color="#c0eafb" offset=".14062"/>
+			<stop stop-color="#c1ebfb" offset=".14453"/>
+			<stop stop-color="#c1ebfb" offset=".14844"/>
+			<stop stop-color="#c2ebfb" offset=".15234"/>
+			<stop stop-color="#c3ebfb" offset=".15625"/>
+			<stop stop-color="#c4ecfb" offset=".16016"/>
+			<stop stop-color="#c5ecfb" offset=".16406"/>
+			<stop stop-color="#c5ecfb" offset=".16797"/>
+			<stop stop-color="#c6ecfb" offset=".17188"/>
+			<stop stop-color="#c7edfb" offset=".17578"/>
+			<stop stop-color="#c8edfb" offset=".17969"/>
+			<stop stop-color="#c8edfb" offset=".18359"/>
+			<stop stop-color="#c9edfb" offset=".1875"/>
+			<stop stop-color="#caeefb" offset=".19141"/>
+			<stop stop-color="#cbeefb" offset=".19531"/>
+			<stop stop-color="#cceefb" offset=".19922"/>
+			<stop stop-color="#cceefb" offset=".20312"/>
+			<stop stop-color="#cdeffb" offset=".20703"/>
+			<stop stop-color="#ceeffb" offset=".21094"/>
+			<stop stop-color="#cfeffb" offset=".21484"/>
+			<stop stop-color="#cfeffc" offset=".21875"/>
+			<stop stop-color="#d0f0fc" offset=".22266"/>
+			<stop stop-color="#d1f0fc" offset=".22656"/>
+			<stop stop-color="#d2f0fc" offset=".23047"/>
+			<stop stop-color="#d2f0fc" offset=".23438"/>
+			<stop stop-color="#d3f1fc" offset=".23828"/>
+			<stop stop-color="#d4f1fc" offset=".24219"/>
+			<stop stop-color="#d5f1fc" offset=".24609"/>
+			<stop stop-color="#d5f1fc" offset=".25"/>
+			<stop stop-color="#d6f2fc" offset=".25391"/>
+			<stop stop-color="#d7f2fc" offset=".25781"/>
+			<stop stop-color="#d8f2fc" offset=".26172"/>
+			<stop stop-color="#d8f2fc" offset=".26562"/>
+			<stop stop-color="#d9f2fc" offset=".26953"/>
+			<stop stop-color="#daf3fc" offset=".27344"/>
+			<stop stop-color="#daf3fc" offset=".27734"/>
+			<stop stop-color="#dbf3fc" offset=".28125"/>
+			<stop stop-color="#dcf3fc" offset=".28516"/>
+			<stop stop-color="#ddf4fc" offset=".28906"/>
+			<stop stop-color="#ddf4fc" offset=".29297"/>
+			<stop stop-color="#def4fc" offset=".29688"/>
+			<stop stop-color="#dff4fd" offset=".30078"/>
+			<stop stop-color="#dff4fd" offset=".30469"/>
+			<stop stop-color="#e0f5fd" offset=".30859"/>
+			<stop stop-color="#e1f5fd" offset=".3125"/>
+			<stop stop-color="#e1f5fd" offset=".31641"/>
+			<stop stop-color="#e2f5fd" offset=".32031"/>
+			<stop stop-color="#e3f6fd" offset=".32422"/>
+			<stop stop-color="#e3f6fd" offset=".32812"/>
+			<stop stop-color="#e4f6fd" offset=".33203"/>
+			<stop stop-color="#e4f6fd" offset=".33594"/>
+			<stop stop-color="#e5f6fd" offset=".34375"/>
+			<stop stop-color="#e5f6fd" offset=".375"/>
+			<stop stop-color="#e5f6fd" offset=".5"/>
+			<stop stop-color="#e5f6fd" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path d="m0 0v1279.8h850.39v-1279.8z" fill="url(#linear0)"/>
+	<path d="m369.96 215.65s4.82-2.054-9.149 18.563c0 0-1.773 3.547-8.543 12.242 0 0-3.644 11.926-11.207 24.871l-8.402 24.297-8.648 56.531-2.825 168.49v31.48l-2.996 97.867s-8.488 15.504-14.234 32.649c-6.789 20.265-24.18 39.301-32.402 56.004-15.18 30.84-62.118 101.77-69.336 112.45-6.653 9.851-48.153 84.75-50.688 87.027-3.375 3.035-247.24 299.34-247.24 291.32v86.477h1095.3l14-1383.7-471.31-4.293-172.35 287.73z" fill="#fff"/>
+	<!--Left side header-->
+	<g id="Top_left_side" transform="translate(50)">
+		<g id="side_headers">
+			<g id="side_headers_heb" transform="translate(120 75)">
+				<g id="forigen" class="forigen" width="200" height="40">
+					<g id="outer_div" class="outerstationsdiv_title">
+						<g id="station_div" class="stationsdiv_title" width="200" height="40">
+							<text id="title_heb" class="heavytitle_en" x="-28.821856">Line and station map</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Left_side_menu" class="Left_side_menu_heb" transform="translate(85 -90)">
+			<!--&#1514;&#1508;&#1512;&#1497;&#1496; &#1514;&#1495;&#1504;&#1492; -->
+			<g transform="translate(50 200)">
+				<g class="forigen" width="80" height="40">
+					<g class="outerstationsdiv">
+						<g class="stationsdiv_small_title" width="80" height="40">
+							<text id="st_heb" class="smallheader_en" x="-10.598106" y="6">Train Station</text>
+						</g>
+					</g>
+				</g>
+				<circle class="activestation" cx="7" cy="5" r="5"/>
+			</g>
+			<!--&#1514;&#1508;&#1512;&#1497;&#1496; &#1514;&#1495;&#1504;&#1514; &#1492;&#1495;&#1500;&#1508;&#1492;-->
+			<g transform="translate(50 240)">
+				<g class="forigen" width="80" height="40">
+					<g class="outerstationsdiv">
+						<g class="stationsdiv_small_title" width="80" height="40">
+							<text class="smallheader_en" x="-10.598114" y="3.5">
+								Recommended Station for<tspan x="-10.598114" dy="10">Chanching Trains</tspan>
+							</text>
+						</g>
+					</g>
+				</g>
+				<path class="activestation" d="m29.03 5.7272c-0.99216-2.1277-3.5219-3.0514-5.6496-2.0592-0.8532 0.39786-1.5019 1.0495-1.9196 1.8175l-10.999 6e-5c-0.0016-0.0035 2.38e-4 -0.0087-0.0031-0.01581-0.99216-2.1277-3.5202-3.0478-5.6515-2.054-2.1277 0.99216-3.0478 3.5202-2.0557 5.6479 0.99381 2.1312 3.5219 3.0514 5.6496 2.0592 1.0054-0.46884 1.732-1.2861 2.1215-2.2349l10.65-8.72e-4c0.05022 0.14468 0.08464 0.29241 0.15067 0.43402 0.99216 2.1277 3.5238 3.0462 5.6515 2.054 2.1277-0.99216 3.0478-3.5202 2.0557-5.6479z"/>
+			</g>
+			<!--&#1514;&#1508;&#1512;&#1497;&#1496; &#1514;&#1495;&#1504;&#1492; &#1505;&#1490;&#1493;&#1512;&#1492;-->
+			<g transform="translate(50 280)">
+				<g class="forigen" width="80" height="40">
+					<g class="outerstationsdiv">
+						<g class="stationsdiv_small_title" width="80" height="40">
+							<text class="smallheader_en" x="-10.598106" y="6">Closed Train Station</text>
+						</g>
+					</g>
+				</g>
+				<circle class="inactivestation" cx="7" cy="5" r="5"/>
+			</g>
+			<!--&#1514;&#1508;&#1512;&#1497;&#1496; &#1511;&#1493; &#1500;&#1488; &#1508;&#1506;&#1497;&#1500;-->
+			<g transform="translate(50 320)">
+				<g class="forigen" width="80" height="40">
+					<g class="outerstationsdiv">
+						<g class="stationsdiv_small_title" width="80" height="40">
+							<text class="smallheader_en" x="-10.703751" y="6">Non - Operating Line</text>
+						</g>
+					</g>
+				</g>
+				<path fill="rgb(50.729858%, 50.159729%, 50.548828%)" stroke="rgb(50.729858%, 50.159729%, 50.548828%)" transform="translate(7 9)" d="m0.0013562 9.25e-4c-2.0664 0-3.7422-1.6758-3.7422-3.7422s1.6758-3.7422 3.7422-3.7422h24.73c2.0664 0 3.7422 1.6758 3.7422 3.7422s-1.6758 3.7422-3.7422 3.7422z" />
+			</g>
+			<!--&#1514;&#1508;&#1512;&#1497;&#1496; &#1511;&#1493; &#1500;&#1497;&#1500;&#1492;-->
+			<g transform="translate(50 360)">
+				<g class="forigen" width="80" height="40">
+					<g class="outerstationsdiv">
+						<g class="stationsdiv_small_title" width="80" height="40">
+							<text class="smallheader_en" x="-10.703751" y="6">Night train</text>
+						</g>
+					</g>
+				</g>
+				<path transform="translate(7 10)" d="m0.0013562 9.25e-4c-2.0664 0-3.7422-1.6758-3.7422-3.7422s1.6758-3.7422 3.7422-3.7422h24.73c2.0664 0 3.7422 1.6758 3.7422 3.7422s-1.6758 3.7422-3.7422 3.7422z" fill="rgb(12%,64%,61%)" stroke="rgb(12%,64%,61%)"/>
+			</g>
+		</g>
+	</g>
+	<g id="Train_track_lines" transform="translate(15)">
+		<!--Train track lines-->
+	</g>
+	<g id="stations" transform="translate(16)">
+		<!--Stations-->
+	</g>
+	<!--Train logo-->
+	<g id="Train_logo_group">
+		<path class="logo_styling" d="m45.578 1235.3h10.793c1.1992 1.7227 2.6992 3.0352 4.5898 3.8789h-13.516zm14.727-3.7227c1.1719 2.418 2.8359 3.7227 6.3633 3.7227h5.1562l1.8633 3.8789h-7.0195c-5.875 0-9.1016-2.8164-11.051-7.6016zm15.93 12.688h-10.789c-1.1992-1.7227-2.6992-3.0352-4.5898-3.8789h13.516zm-14.723 3.7188c-1.1719-2.4141-2.8359-3.7188-6.3672-3.7188h-5.1523l-1.8672-3.8789h7.0195c5.8789 0 9.1055 2.8164 11.055 7.5977z"/>
+		<path class="logo_styling" d="m163.55 1239c-0.34375-0.8125-0.62891-1.3945-0.85547-1.7539-0.30859-0.48438-0.69531-0.89453-1.1602-1.2305-0.61328-0.45703-1.3164-0.68359-2.1094-0.68359h-4.4883l0.875 2.0625h3.9297c0.19531 0 0.35547 0.078125 0.48047 0.24219 0.14062 0.1875 0.30078 0.49609 0.48047 0.92188l2.3242 5.4766h2.6602z"/>
+		<path class="logo_styling" d="m153.39 1236.3c-0.80469-0.69531-1.8516-1.0469-3.1445-1.0469h-3.6836l0.875 2.0625h3.5039c0.29297 0 0.52344 0.11328 0.69922 0.33984 0.33203 0.42188 0.68359 1.0703 1.0547 1.9453 0.41797 0.98047 0.61719 1.6445 0.59766 1.9883-0.011719 0.20312-0.15234 0.30469-0.42578 0.30469h-3.4844l0.875 2.0625h3.6094c1.2812 0 2.0352-0.36719 2.2578-1.0977 0.21094-0.66797-0.003906-1.7539-0.64062-3.2578-0.66406-1.5625-1.3633-2.6602-2.0938-3.3008"/>
+		<path class="logo_styling" d="m147.92 1241.9h-1.3164c0.10156-0.54297-0.13672-1.5078-0.72656-2.8906-0.62109-1.4609-1.2539-2.4766-1.8984-3.0352-0.55469-0.47656-1.2891-0.71484-2.1992-0.71484h-4.5703l0.875 2.0625h3.6914c0.1875 0 0.36719 0.11328 0.53906 0.33984 0.24609 0.31641 0.57812 0.96484 0.99219 1.9453 0.36328 0.85938 0.59375 1.5039 0.69531 1.9375 0.050782 0.23828 0.007813 0.35547-0.13281 0.35547h-4.0781l0.875 2.0625h8.1289z"/>
+		<path class="logo_styling" d="m136.77 1239c-0.34766-0.8125-0.62891-1.3945-0.85547-1.7539-0.30859-0.48438-0.69531-0.89453-1.1641-1.2305-0.60938-0.45703-1.3125-0.68359-2.0977-0.68359h-6.0352l2.5703 6.0508c0.19531 0.46094-0.023437 0.69141-0.66016 0.69141-0.23828 0-0.48438-0.035156-0.73438-0.10156l0.83203 1.9609c0.35938 0.14453 0.85938 0.21875 1.5 0.21875 0.91406 0 1.5352-0.21484 1.8633-0.63672s0.32812-1.0273-0.007812-1.8164l-1.8281-4.3047h2.8086c0.19922 0 0.35938 0.078125 0.47656 0.24219 0.14062 0.1875 0.30078 0.49609 0.48438 0.92188l2.3242 5.4766h2.6602z"/>
+		<path class="logo_styling" d="m113.32 1235.3 1.6445 5.4883c0.14453 0.49609 0.09375 0.83594-0.15234 1.0195-0.22656 0.17188-0.69531 0.25781-1.4062 0.25781h-1.1836c-0.74609 0-1.2969-0.078125-1.6406-0.24219-0.34766-0.16406-0.65234-0.47266-0.90625-0.91797l-0.4375-0.76562c0.21484 0.066406 0.67969 0.097656 1.4062 0.097656 0.80469 0 1.3477-0.19141 1.625-0.58203 0.30078-0.42578 0.28906-1.0391-0.03125-1.8438l-1.0117-2.5117h-2.5664l1.0156 2.4883c0.13281 0.3125 0.13672 0.55078 0.011719 0.71094-0.11719 0.14062-0.36328 0.21094-0.73438 0.21094h-0.49219l-1.8398-3.4102h-2.6992l3.082 5.6211c1.1914 2.1797 3.1992 3.2734 6.0117 3.2734h1.3281c1.3555 0 2.3242-0.28906 2.9102-0.86328 0.58594-0.57812 0.72266-1.3867 0.41016-2.4258l-1.6641-5.6055z"/>
+		<path class="logo_styling" d="m104.12 1239c-0.34375-0.8125-0.62891-1.3945-0.85156-1.7539-0.30859-0.48438-0.69922-0.89453-1.1641-1.2305-0.61328-0.45703-1.3164-0.68359-2.1094-0.68359h-4.4883l0.875 2.0625h3.9297c0.19922 0 0.35547 0.078125 0.48047 0.24219 0.14062 0.1875 0.30078 0.49609 0.48047 0.92188l2.3281 5.4766h2.6602z"/>
+		<path class="logo_styling" d="m93.988 1240.3c0.3125-0.53516 0.49219-1.2188 0.54688-2.043 0.054688-1.0039-0.11719-1.9844-0.52734-2.9414l-0.015625-0.042969h-2.8086l0.046875 0.10938c0.61719 1.4531 0.87109 2.5859 0.76562 3.3984-1.6094-1.3008-3.1562-2.4688-4.6523-3.5078h-3.0156c1.5039 1.1055 2.6758 1.9766 3.5156 2.6211-0.76953 1.4297-0.61719 3.418 0.46484 5.9648l0.050781 0.11719h2.6406l-0.11719-0.27344c-0.78516-1.8516-1.1094-3.2773-0.96875-4.2734 2.0156 1.5898 3.8203 3.1055 5.4141 4.5469h2.8945c-1.3672-1.2812-2.7773-2.5039-4.2344-3.6758"/>
+		<path class="logo_styling" d="m83.746 1235.7c-0.11328-0.26562-0.31641-0.39844-0.60938-0.39844h-4.6289l-1.1797-2.7812h-2.6602l1.8555 4.3711c0.13281 0.3125 0.33594 0.47266 0.61328 0.47266h4.3594l0.85938 3.5078c0.19141 0.79688-0.20703 1.1953-1.2031 1.1953h-0.42969l0.82422 1.9375c0.33203 0.066407 0.64453 0.10156 0.94531 0.10156 2.1641 0 2.9922-1.0742 2.4844-3.2188l-1.1914-5.0703c-0.011718-0.039062-0.023437-0.078125-0.039062-0.11719"/>
+		<path class="logo_styling" d="m120.5 1235.3h-2.6523l2.1211 4.9961h2.6484z"/>
+	</g>
+</svg>
